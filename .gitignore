@@ -13,3 +13,5 @@ vercel_token
 *.code-workspace
 
 .vercel
+/.vs
+/.gitignore
